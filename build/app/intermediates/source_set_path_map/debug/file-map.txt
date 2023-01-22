@@ -1,0 +1,15 @@
+com.example.flutter_health_care_app-media-1.1.0-0 C:\Users\91934\.gradle\caches\transforms-3\5f4807eabbb25ce6416f739dec84dfd1\transformed\media-1.1.0\res
+com.example.flutter_health_care_app-core-1.6.0-1 C:\Users\91934\.gradle\caches\transforms-3\62fbb2c65213beb1f536b8e0b935eb3b\transformed\core-1.6.0\res
+com.example.flutter_health_care_app-jetified-window-1.0.0-beta04-2 C:\Users\91934\.gradle\caches\transforms-3\9b5faeba4d22e81890248d37e5ceee15\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_health_care_app-jetified-window-java-1.0.0-beta04-3 C:\Users\91934\.gradle\caches\transforms-3\a22fffcccecc0912a1cc7879e9e8802d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_health_care_app-jetified-annotation-experimental-1.1.0-4 C:\Users\91934\.gradle\caches\transforms-3\bbe1bb0f151542c796029bdff7bc09ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_health_care_app-debug-5 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\android\app\src\debug\res
+com.example.flutter_health_care_app-main-6 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\android\app\src\main\res
+com.example.flutter_health_care_app-pngs-7 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\app\generated\res\pngs\debug
+com.example.flutter_health_care_app-resValues-8 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\app\generated\res\resValues\debug
+com.example.flutter_health_care_app-rs-9 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\app\generated\res\rs\debug
+com.example.flutter_health_care_app-mergeDebugResources-10 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_health_care_app-mergeDebugResources-11 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_health_care_app-merged_res-12 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\app\intermediates\merged_res\debug
+com.example.flutter_health_care_app-packaged_res-13 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.flutter_health_care_app-packaged_res-14 C:\Users\91934\Downloads\flutter_doctor_appointment_booking_app\build\fluttertoast\intermediates\packaged_res\debug
